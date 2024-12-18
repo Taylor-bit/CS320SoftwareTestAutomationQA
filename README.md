@@ -1,4 +1,4 @@
-# CS320SoftwareTestAutomationQA
+# CS-320 Software Test Automation QA
 A repository for my work completed throughout my CS-320 Software Test, Automation QA course at Southern New Hampshire University. Through these projects, I have honed my skills in writing functional, secure code, interpreting user needs, and designing robust software solutions.
 
 # Reflections
